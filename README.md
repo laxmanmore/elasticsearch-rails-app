@@ -1,24 +1,11 @@
-# README
+# Sample app for elasticsearch rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Steps to use app:
 
-Things you may want to cover:
+* Ruby version: 2.7.1
 
-* Ruby version
+* Rails version: 6.0.3
 
-* System dependencies
+* Clone app & Run: RAILS_ENV=development rails db:create db:migrate
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Visit: http://localhost:3000/
